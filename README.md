@@ -1,4 +1,4 @@
-- 👋 Hi, I’m webdevops@nautone
+- 👋 Hi, we are webdevops@nautone
 - 👀 Nautone Degital marketing company
 
 
